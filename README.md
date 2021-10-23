@@ -8,6 +8,10 @@ You'll need NodeJS and npm installed; those can be downloaded [here](https://nod
 
     npm install -g typescript
 
+If you're using windows, you'll also need to install rimraf, which is used to clean out previously compiled code on each build:
+
+    npm install -g rimraf
+
 You'll also need to install [VSCode](https://code.visualstudio.com/download).
 
 ## Opening the project
